@@ -40,7 +40,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.059, 0, 4.769)
 script = ExtResource("5_ff8oi")
 
 [node name="camera_socket" type="Node3D" parent="camera_base"]
-transform = Transform3D(1, 0, 0, 0, 0.707107, 0.707107, 0, -0.707107, 0.707107, 0, 3, 0)
+transform = Transform3D(1, 0, 0, 0, 0.806713, 0.590944, 0, -0.590944, 0.806713, 0, 3, 0)
 
 [node name="Camera3D" type="Camera3D" parent="camera_base/camera_socket"]
 
